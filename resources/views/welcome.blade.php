@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel -- Contributor: Prasetyo Wildan AUlia
                 </div>
 
                 <div class="links">
