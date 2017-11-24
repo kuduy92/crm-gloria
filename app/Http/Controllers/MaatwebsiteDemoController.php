@@ -4,7 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-use Input;
+// use Input;
+use Illuminate\Support\Facades\Input;
 use App\Post;
 use DB;
 use Excel;
